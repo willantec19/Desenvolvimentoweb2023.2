@@ -1,25 +1,27 @@
-# :checkered_flag: NOME DO PROJETO
+# :checkered_flag: Clinica Boa Saude
 
-Breve descrição do que o seu projeto faz.
-
+Um sistema web para marcação de consulta onde o paciente ira realizar o visualizar, remarcar e cancelar suas consulta, terá o atendente onde poderá gerenciar as consultas de todos os pacientes e realizar o cadastramento dos pacientes, assim como dos medicos e realizar todas as alterações e a tela onde os medicos poderão visualizar as consultas para eles
 ## :technologist: Membros da equipe
-
-Matrícula, nome e curso dos participantes.
+Matricula: 476491
+Nome: Willan Paulino da Silva
+Redes de Computadores
 
 ## :people_holding_hands: Papéis ou tipos de usuário da aplicação
 
-Informe aqui os tipos de usuário que irão interagir com a aplicação. Ex: administrador, locador, locatario, usuário não logado.
+Os usuarios serão os pacientes, atendentes e medicos
 
 > Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
-Liste as principais entidades do sistema.
+A entidades serão:
+-Os pacientes onde eles poderão agendar suas consultas atraves do sistema web assim como editar as informações da consulta ou ate mesmo desmarca-la
+-Os atendentes terão a capacidade de gerenciar os cadastros de pacientes assim como os dados das consultas e dados cadastrais dos medicos de certa forma serão os administradores do sistema.
+-Os medicos terão a capacidade de visualizar as consultas e inserir os dados daquela consulta como por exemplo o diagnostico e medicamentos receitados para aquele paciente.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
 
-Descreve ou liste brevemente as principais funcionalidades da aplicação que será desenvolvida. Destaque a funcionalidades que serão acessévies a todos os usuários e aquelas restriras a usuários logados.
-
+As principais funcionalidade do sistema serão visualização a visualização das areas de atendimentos e os medicos em cada area onde esse visualização não será necessario realizar o login no sistema, porém caso o paciente queira realizar o cadastramento para realizar o agendamento da consulta ele poderá fazer atraves do atendente que terá que esta logado no sistema para realizar isso, após o paciente logar no sistema poderá visualizar as consultas agendadas para ele e realizar qualquer alteração previa das informações, já os medicos terão que logar no sistema com suas credencias para terem informações dos pacientes.
 
 ----
 
