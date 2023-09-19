@@ -1,7 +1,9 @@
 # :checkered_flag: Clinica Boa Saude
 
-Um sistema web para marcação de consulta onde o paciente ira realizar o visualizar, remarcar e cancelar suas consulta, terá o atendente onde poderá gerenciar as consultas de todos os pacientes e realizar o cadastramento dos pacientes, assim como dos medicos e realizar todas as alterações e a tela onde os medicos poderão visualizar as consultas para eles
+Um sistema web para marcação de consulta onde o paciente ira realizar o visualizar, remarcar e cancelar suas consulta, terá o atendente onde poderá gerenciar as consultas de todos os pacientes e realizar o cadastramento dos pacientes, assim como dos medicos e realizar todas as alterações e a tela onde os medicos poderão visualizar as consultas para eles.
+
 dominio: clinicaboasaude.com
+
 ## :technologist: Membros da equipe
 Matricula: 476491
 Nome: Willan Paulino da Silva
@@ -11,7 +13,7 @@ Redes de Computadores
 
 Os usuarios serão os pacientes, atendentes e medicos
 
-> Tenha em mente que obrigatoriamente a aplicação deve possuir funcionalidades acessíveis a todos os tipos de usuário e outra funcionalidades restritas a certos tipos de usuários.
+
 
 ## :spiral_calendar: Entidades ou tabelas do sistema
 
@@ -35,11 +37,11 @@ As principais funcionalidade do sistema serão visualização a visualização d
 
 **Frontend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+
  Vue.js, bootstrap
 **Backend:**
 
-Lista as tecnologias, frameworks e bibliotecas utilizados.
+
 Strapi
 
 ## :shipit: Operações implementadas para cada entidade da aplicação
